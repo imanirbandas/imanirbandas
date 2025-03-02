@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" alt="GitHub Banner">
+  <img src="https://www.google.com/imgres?q=github%20image&imgurl=https%3A%2F%2Ffoundations.projectpythia.org%2F_images%2FGitHub-logo.png&imgrefurl=https%3A%2F%2Ffoundations.projectpythia.org%2Ffoundations%2Fgetting-started-github.html&docid=EoA0udXl2SMr_M&tbnid=ECqRgpVdvbaoQM&vet=12ahUKEwiln9KC2-qLAxW2zzgGHVFfGW4QM3oECBgQAA..i&w=3840&h=2160&hcb=2&ved=2ahUKEwiln9KC2-qLAxW2zzgGHVFfGW4QM3oECBgQAA" alt="GitHub Banner">
 </p>
 
 
