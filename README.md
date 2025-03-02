@@ -1,10 +1,11 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://your-image-url.com/banner.png" alt="GitHub Banner">
+  <img src="YOUR_IMAGE_URL_HERE" alt="GitHub Banner">
 </p>
 
+
 ## Hi there! 👋 I'm Anirban Das  
-🚀 Web Developer | DSA Enthusiast | Open Source Contributor  
+🚀 Web Developer | DSA Enthusiast |  
 
 <!-- Coding GIF -->
 <p align="center">
