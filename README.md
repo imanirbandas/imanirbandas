@@ -25,5 +25,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=imanirbandas)
 
 ### 📫 How to Reach Me:
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/KrishnaDevoteeAnirban/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/u/anirban2025/)  
+
+
 
