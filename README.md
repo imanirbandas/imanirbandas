@@ -3,7 +3,7 @@
 
 
 ## Hi there! 👋 I'm Anirban Das  
-🚀 Web Developer | DSA Enthusiast |  
+### 🚀 Web Developer | DSA Enthusiast | Open-Source Contributor  
 
 <!-- Coding GIF -->
 <p align="center">
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </p>
 
-### 🌱 Currently Learning:
+### 🌟 Currently Learning:
 - JavaScript (Advanced)  
 - React.js & Frontend Development  
 - Data Structures & Algorithms  
@@ -32,14 +32,30 @@
   <img src="https://github-readme-stats.vercel.app/api?username=imanirbandas&show_icons=true&theme=radical" alt="Anirban's GitHub Stats"/>
 </p>
 
-### 🏆 Profile Views:
+### 🏆 Streak & Contributions:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imanirbandas&theme=radical" alt="Anirban's GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanirbandas&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+### 👀 Profile Views:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=imanirbandas&color=blue" alt="Profile Views"/>
 </p>
 
-### 📫 How to Reach Me:
+### 💌 Connect with Me:
 <p align="center">
   <a href="https://leetcode.com/u/anirban2025/">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode" alt="LeetCode">
   </a>
+  <a href="https://github.com/imanirbandas">
+    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="GitHub">
+  </a>
+  <a href="mailto:anirbaneducation2025@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/itsanirbandas">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
+
