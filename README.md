@@ -15,7 +15,7 @@
 - JavaScript (Advanced)  
 - React.js & Frontend Development  
 - Data Structures & Algorithms
-- AI- ML
+- AI/ML
 
 ### 📊 GitHub Stats:
 <p align="center">
