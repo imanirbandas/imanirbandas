@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 
 ## Hi there! 👋 I'm Anirban Das  
-### 🚀 Web Developer | DSA Enthusiast | Open-Source Contributor  
+### 🚀 Web Developer | DSA Enthusiast | Graphic Designing 
 
 <!-- Coding GIF -->
 <p align="center">
