@@ -8,12 +8,12 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250"/>
 </p>
 
-<h4>💫 Personal Tagline:</h4>
-<p>
+<h3>💫 Personal Tagline:</h3>
+<h4>
   “I blend code with creativity and devotion — building technology that uplifts.” <br>
   – A coder on the path of Krishna Consciousness ☀️ <br>
   – Life with Devotion ❤️
-</p>
+</h4>
 
 ### 🛠️ Tech Stack:
 <p align="center">     <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>     <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>     <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>     <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/>     <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>     <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white"/>     <img src="https://img.shields.io/badge/Seaborn-2E6E9E?style=flat&logo=python&logoColor=white"/>     <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>     <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>     <img src="https://img.shields.io/badge/Data%20Structures-4CAF50?style=flat&logo=files&logoColor=white"/>     <img src="https://img.shields.io/badge/Algorithms-8E44AD?style=flat&logo=codeforces&logoColor=white"/>     <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>     <img src="https://img.shields.io/badge/Graphic%20Design-E44D26?style=flat&logo=adobe-illustrator&logoColor=white"/>     <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/>     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>     <img src="https://img.shields.io/badge/ChatGPT-41B883?style=flat&logo=openai&logoColor=white"/> </p>
