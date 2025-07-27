@@ -1,12 +1,18 @@
 <!-- Banner Image -->
 <h1 align="center">👋 Welcome to My GitHub Profile!</h1>
 <h3 align="center">🚀 I'm Anirban Das — Web Developer | DSA Enthusiast | Graphic Designer</h3>
+### 🧑‍💻 About Me
 
+- 🎓 **3rd Year B.Tech CSE Student**  
+- 🖥️ Practicing **LeetCode** & **CodeChef** 
+- 🌐 Building projects with **HTML, CSS, JS**, planning to dive deep into **Full Stack**  
+- 🔍 Exploring AI/ML as a passion  
+- ✨ Strong believer in **self-discipline, spirituality, and continuous improvement** 
 
-<!-- Coding GIF -->
+<!-- Coding GIF 
 <p align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250"/>
-</p>
+</p>-->
 
 <h3>💫 Personal Tagline:</h3>
 <h4>
