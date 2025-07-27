@@ -31,7 +31,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imanirbandas&theme=radical" alt="Anirban's GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanirbandas&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=imanirbandas&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph"/> </p>
+<p align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imanirbandas&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph"/> 
+</p>
+
 ### 👀 Profile Views:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=imanirbandas&color=blue" alt="Profile Views"/>
