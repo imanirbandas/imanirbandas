@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <h1 align="center">👋 Welcome to My GitHub Profile!</h1>
 <h3 align="center">🚀 I'm Anirban Das — Web Developer | DSA Enthusiast | Graphic Designer</h3>
-### 🧑‍💻 About Me
+<h3>🧑‍💻 About Me-</h3>
 
 - 🎓 **3rd Year B.Tech CSE Student**  
 - 🖥️ Practicing **LeetCode** & **CodeChef** 
