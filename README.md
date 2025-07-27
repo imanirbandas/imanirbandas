@@ -1,7 +1,7 @@
 <!-- Banner Image -->
+<h1 align="center">👋 Welcome to My GitHub Profile!</h1>
+<h3 align="center">🚀 I'm Anirban Das — Web Developer | DSA Enthusiast | Graphic Designer</h3>
 
-## Hi there! 👋 I'm Anirban Das  
-### 🚀 Web Developer | DSA Enthusiast | Graphic Designer
 
 <!-- Coding GIF 
 <p align="center">
